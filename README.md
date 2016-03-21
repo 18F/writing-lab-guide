@@ -1,83 +1,24 @@
-## 18F Guides Template
+## The Writing Lab Guide
 
-This is a skeleton repo containing the
-[CFPB/DOCter](https://github.com/CFPB/DOCter)-based
-[Jekyll](http://jekyllrb.com/) template for
-[18F Guides](http://18f.github.io/guides/).
+This repo is a guide to 18F's internal Writing Lab for submitters and editors. You can learn more about the Writing Lab [in this blog post](https://18f.gsa.gov/2016/01/22/18f-writing-lab/) or below. This guide is maintained by [18F's Content Guild](https://github.com/18F/g-content).  
 
-### Getting started
+The Writing Lab is a virtual writing center where you can get
+personalized help from members of the 18F editorial team, which includes
+members of the Content Guild, the Experience Design Content Team, and
+the Outreach Team. We’re here to provide short-term, ad-hoc writing and
+editing help for anything you need.
 
-#### Installing Ruby
+### What we do
 
-You will need [Ruby](https://www.ruby-lang.org) ( > version 2.1.5 ). To check
-whether it's already installed on a UNIX-like system, open up a terminal
-window (e.g. Terminal on OS X) and type `ruby -v` at the command prompt. For
-example, you should see something similar to the following:
+We offer four types of help:
 
-```shell
-$ ruby -v
-ruby 2.2.3p173 (2015-08-18 revision 51636) [x86_64-darwin14]
-```
+-   Generative — help coming up with and fleshing out ideas for a piece of writing.
+-   Developmental — help structuring and planning a piece of writing.
+-   Stylistic — help shifting the voice and tone of a piece you’ve already written.
+-   Copy editing — help copy editing your finished piece of writing.
 
-If the version number is less than 2.1.5, or instead you see something like:
-
-```shell
-$ ruby -v
--bash: ruby: command not found
-```
-
-Then Ruby is not installed, and you should choose one of the installation
-methods below. [The "Installing Ruby" page of the official
-Ruby language web
-site](https://www.ruby-lang.org/en/documentation/installation/) explains how
-to do this in a number of ways across many different systems.
-
-##### Quickest Ruby install/upgrade for OS X
-
-On OS X, you can use [Homebrew](http://brew.sh/) to install Ruby in
-`/usr/local/bin`, which may require you to update your `$PATH` environment
-variable:
-
-```shell
-$ brew update
-$ brew install ruby
-```
-
-##### Optional: using a version manager
-
-Whether or not Ruby is already installed, we strongly recommend using a Ruby
-version manager such as [rbenv](https://github.com/sstephenson/rbenv) or
-[rvm](https://rvm.io/) to help ensure that Ruby version upgrades don't mean
-all your [gems](https://rubygems.org/) will need to be rebuilt.
-
-#### Cloning and serving the Guides Template locally
-
-To create a new guide and serve it locally, where `MY-NEW-GUIDE` is the name
-of your new repository:
-
-```shell
-$ git clone https://github.com/18F/guides-template.git MY-NEW-GUIDE
-$ cd MY-NEW-GUIDE
-$ ./go serve
-```
-
-The `./go` script will check that your Ruby version is supported, install the
-[Bundler gem](http://bundler.io/) if it is not yet installed, install all the
-gems needed by the template, and launch a running instance on
-`http://localhost:4000/`.
-
-#### Follow the template instructions
-
-The Guides Template (either [running locally](http://localhost:4000) or the
-[published version](https://pages.18f.gov/guides-template/)) will walk you
-through the rest of the steps to edit and publish your guide.
-
-### Staging version (for 18F team members)
-
-In addition to the `18f-pages` branch, you can create an `18f-pages-staging`
-branch and changes to that branch will be published to
-`https://pages-staging.18f.gov/MY-NEW-GUIDE`, which is identical to
-`https://pages.18f.gov/` but provides authenticated access.
+We’re ready to help with any kind of written content including emails,
+site copy, guides, presentations, talking points, blog posts, and more.
 
 ### Public domain
 
