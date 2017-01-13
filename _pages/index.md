@@ -26,7 +26,7 @@ What we don’t do
 ----------------
 
 The Writing Lab is designed for short engagements. If you need more than
-10 hours of content help, contact Russ Unger about getting a content
+10 hours of content help, contact [Nicole Fenton](https://gsa-tts.slack.com/team/nicoleslaw) about getting a content
 designer assigned to your project.
 
 Our role is limited to improving the overall quality of content — its
